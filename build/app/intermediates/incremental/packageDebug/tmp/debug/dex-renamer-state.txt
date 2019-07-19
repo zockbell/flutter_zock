@@ -1,0 +1,4 @@
+#Fri Jul 19 17:07:01 CST 2019
+base.0=E\:\\zock\\flutter\\flutter_movie\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
