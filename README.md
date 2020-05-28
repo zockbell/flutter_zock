@@ -57,3 +57,8 @@ https://douban.uieee.com/v2/book/search?q=我是传奇
 #### demo效果图
 ![flutter](https://github.com/zockbell/flutter_zock/blob/master/lib/GIF.gif?raw=true)
 
+#### 模拟器运行
+```
+open -a Simulator
+```
+
